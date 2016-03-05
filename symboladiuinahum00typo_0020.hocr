@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symboladiuinahum00typo_0020.png"; bbox 0 0 2054 3616; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 859 215 1504 282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 859 215 1504 282">
+     <span class='ocr_line' id='line_1_1' title="bbox 859 215 1504 282; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 859 227 1364 282; x_wconf 61' lang='lat' dir='ltr'>mskoeknmm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1501 215 1504 219; x_wconf 82' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 278 338 1947 3071">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 278 338 1947 3071">
+     <span class='ocr_line' id='line_1_2' title="bbox 278 338 1947 3071; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 278 338 1947 3071; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1684 3182 1905 3228">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1684 3182 1905 3228">
+     <span class='ocr_line' id='line_1_3' title="bbox 1684 3182 1905 3228; baseline -0.023 -5"><span class='ocrx_word' id='word_1_4' title='bbox 1684 3182 1726 3223; x_wconf 77' lang='lat'>71</span> <span class='ocrx_word' id='word_1_5' title='bbox 1729 3184 1758 3228; x_wconf 81' lang='grc' dir='ltr'>Ῐ.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1786 3185 1905 3222; x_wconf 75' lang='lat' dir='ltr'><em>Hiera-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
